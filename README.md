@@ -4,7 +4,8 @@
 
 No terminal digite:
 
-```cd .\questao1\src
+```
+>> cd .\questao1\src
 >> javac *.java
 >> java Main
 ```
@@ -13,7 +14,8 @@ No terminal digite:
 
 No terminal digite: 
 
-```cd .\questao2\src
+```
+>> cd .\questao2\src
 >> javac *.java
 >> java Main
 ```
