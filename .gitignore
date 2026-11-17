@@ -1,4 +1,7 @@
-/.vscode
-/bin
-/lib
-/README.md
+# Java build output
+*.class
+bin/
+out/
+
+# Local VS Code settings
+/.vscode/
